@@ -14,10 +14,15 @@ public class Main {
 //        System.out.println(blackMercedes == anotherBlackMercedes);
 
 
-        Program program = new BankProgram(new CSharpProgrammer());
+//        Program program = new BankProgram(new CSharpProgrammer());
+//
+//        program.programmerWriteCode();
 
-        program.programmerWriteCode();
-
+//        Program program = new BankProgram(new CSharpProgrammer());
+//
+//        BankProgram bankProgram = (BankProgram) program;
+//
+//        System.out.println(program == bankProgram);
 
     }
 }
